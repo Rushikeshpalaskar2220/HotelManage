@@ -1,0 +1,60 @@
+footer {
+    background-color: #de0909;
+    color: #ffffff;
+    text-align: center;
+    padding: 1em 0;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+  
+  .flogo-img {
+    display: block;
+    margin: 0 auto;
+    max-width: 8%;
+    padding-bottom: 2%;
+  }
+  
+  
+  .social-links a:nth-child(1) i {
+    color: #600672; /* Instagram color */
+  }
+  
+  .social-links a:nth-child(2) i {
+    color: #6092ff; /* Facebook color */
+  }
+  
+  .social-links a:nth-child(3) i {
+    color: #25d366; /* WhatsApp color */
+  }
+  .social-links a:nth-child(4) i {
+    color: #e1e104; /* Google Maps color */
+  }
+  
+  
+  .social-links a i {
+    font-size: 1.5em;
+    margin: 0 1em;
+    transition: all 0.3s;
+  }
+  
+  .social-links a:hover i {
+    color: #ffffff;
+  }
+  
+  .copyright {
+    margin-top: 1em;
+  }
+  @media only screen and (max-width: 768px) {
+    .logo img {
+      max-width: 80%;
+    }
+  
+    .social-links a i {
+      font-size: 1.2em;
+    }
+  }
