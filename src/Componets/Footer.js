@@ -23,7 +23,7 @@ const Footer = () => {
             <i className="fas fa-map-marked-alt"></i>
           </a>
         </div>
-        <div className="copyright"><b>&copy;</b> 2018 Hotel Rassa Bhakri.</div>
+        <div className="copyright"><b>&copy;</b> 2017 Hotel Rassa Bhakri.</div>
       </div>
     </footer>
   );
