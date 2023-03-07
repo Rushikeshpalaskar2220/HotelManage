@@ -10,18 +10,26 @@ import Static from './Componets/Static.js';
 import Footer from './Componets/Footer.js';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Navbar from './Componets/Navbar';
+import Explore from './Componets/Explore';
+import App from './App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
-   <Navbar/>
+ <React.StrictMode>
+  <Navbar/>
+  <App/>
    <Static/>
+ 
    <Vision/>
    
    <Menu/>
+   <Explore/>
    <Testimonials/>
 <Map/>
 <Footer/>
+ 
+
+
   </React.StrictMode>
 );
 

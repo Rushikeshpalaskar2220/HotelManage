@@ -7,6 +7,7 @@ nav {
     padding: 0px 0px;
     margin-bottom: 0;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
+
   }
   
   .logo-img {
@@ -113,6 +114,7 @@ nav {
       box-shadow: 0 40px 60px rgba(0, 0, 0, 0.1);
       padding: 40px 0 0 10px;
       transition: 0.4s ease-in-out;
+      z-index: 100;
     }
   
     #navbar.active {
