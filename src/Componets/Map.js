@@ -37,7 +37,7 @@ const Contact = () => {
             <div className="contact">
               <li> Behind Jijamata Garden,  412210</li>
               <li>Jijamata Society Shirur</li>
-              <li>Maharashtra-412210 India</li>
+              <li>Maharashtra-412210 </li>
               <li>Call/Whatsap:-9822380705 / 9697975599</li>
             </div>
           </div>
