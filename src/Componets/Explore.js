@@ -6,7 +6,7 @@ const Explore = () => {
   return (
     <>
       <div className="elements-content">
-        <div className="container">
+        <div className="container1">
           <div className="about-inline-text-center">
             <h3 className="about_inline_h3">Explore Traditional Maharashtrian Nonveg Delicacies </h3>
             <p className="about_inline_p">
