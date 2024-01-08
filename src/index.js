@@ -12,6 +12,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Navbar from './Componets/Navbar';
 import Explore from './Componets/Explore';
 import App from './App';
+import Opinion from './Componets/Opinion.js';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -25,6 +26,7 @@ root.render(
    <Menu/>
    <Explore/>
    <Testimonials/>
+   <Opinion/>
 <Map/>
 <Footer/>
  

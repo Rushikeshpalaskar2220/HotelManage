@@ -45,7 +45,6 @@ const Slider = () => {
           }
           return (
             <article className={position} key={id}>
-              
               <h4>{name}</h4>
               <p className="title">{title}</p>
               <p className="text">{quote}</p>
@@ -59,6 +58,12 @@ const Slider = () => {
           <i className="fas fa-arrow-right" />
         </button>
       </div>
+      {/* Your Opinion Section */}
+      {/* <div className="opinion">
+        <h3>Your Opinion</h3>
+        <p>Share your thoughts and feedback with us!</p> */}
+        {/* Add your form or input elements for collecting opinions */}
+      {/* </div> */}
     </section>
   );
 };
