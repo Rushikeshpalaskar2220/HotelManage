@@ -26,7 +26,7 @@ root.render(
    <Menu/>
    <Explore/>
    <Testimonials/>
-   <Opinion/>
+ {/* <Opinion/> */}
 <Map/>
 <Footer/>
  
